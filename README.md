@@ -18,15 +18,16 @@ Over the next 100 days, I will be committing to:
 
 ## 📝 Daily Log
 
-| Day | Date       | Topic / Project           | Description                               |
-|-----|------------|---------------------------|-------------------------------------------|
-| 1   | 2024-10-15 | Basic Python Syntax        | Introduction to Python, variables, etc.   |
+| Day | Date       | Topic / Project                 | Description                               |
+|-----|------------|---------------------------------|-------------------------------------------|
+| 1   | 2024-10-15 | Basic Python Syntax             | Introduction to Python, variables, etc.   |
+| 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.          |
 
 ## 📈 Progress Tracker
 
 - [x] Day 1: Basic Syntax, Printing, Variable
-<!-- - [x] Day 2: Data Structures
-- [ ] Day 3: Control Flow
+- [x] Day 2: Data Type, Math Operator, F-String
+<!-- - [ ] Day 3: Control Flow
 - [ ] ...
 - [ ] Day 100: Final Project -->
 
