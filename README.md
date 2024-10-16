@@ -22,20 +22,19 @@ Over the next 100 days, I will be committing to:
 |-----|------------|---------------------------------|-------------------------------------------|
 | 1   | 2024-10-15 | Basic Python Syntax             | Introduction to Python, variables, etc.   |
 | 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.          |
+| 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value|
 
 ## 📈 Progress Tracker
 
 - [x] Day 1: Basic Syntax, Printing, Variable
 - [x] Day 2: Data Type, Math Operator, F-String
-<!-- - [ ] Day 3: Control Flow
-- [ ] ...
-- [ ] Day 100: Final Project -->
+- [X] Day 3: Control Flow
 
 ## 🔗 Links
 
 - [Python Documentation](https://docs.python.org/3/)
-<!-- - [Project Euler](https://projecteuler.net/) (for problem-solving practice)
-- [LeetCode](https://leetcode.com/) (for coding challenges) -->
+- [Project Euler](https://projecteuler.net/) (for problem-solving practice)
+- [LeetCode](https://leetcode.com/) (for coding challenges)
 
 <!-- ## 🏅 Milestones
 
