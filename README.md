@@ -24,6 +24,7 @@ Over the next 100 days, I will be committing to:
 | 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.             |
 | 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value   |
 | 4   | 2024-10-17 | Data Structure List & Module    | List(append, extend & more), & Random Module |
+| 5   | 2024-10-18 | For Loop                        | Learn for loop in list & range()             |
 
 ## 📈 Progress Tracker
 
@@ -31,6 +32,7 @@ Over the next 100 days, I will be committing to:
 - [x] Day 2: Data Type, Math Operator, F-String
 - [X] Day 3: Control Flow
 - [X] Day 4: List, Random module
+- [X] Day 5: For loop
 
 ## 🔗 Links
 
