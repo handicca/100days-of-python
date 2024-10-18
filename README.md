@@ -18,11 +18,12 @@ Over the next 100 days, I will be committing to:
 
 ## 📝 Daily Log
 
-| Day | Date       | Topic / Project                 | Description                               |
-|-----|------------|---------------------------------|-------------------------------------------|
-| 1   | 2024-10-15 | Basic Python Syntax             | Introduction to Python, variables, etc.   |
-| 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.          |
-| 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value|
+| Day | Date       | Topic / Project                 | Description                                  |
+|-----|------------|---------------------------------|----------------------------------------------|
+| 1   | 2024-10-15 | Basic Python Syntax             | Introduction to Python, variables, etc.      |
+| 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.             |
+| 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value   |
+| 4   | 2024-10-17 | Data Structure List & Module    | List(append, extend & more), & Random Module |
 
 ## 📈 Progress Tracker
 
