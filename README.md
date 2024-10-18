@@ -30,6 +30,7 @@ Over the next 100 days, I will be committing to:
 - [x] Day 1: Basic Syntax, Printing, Variable
 - [x] Day 2: Data Type, Math Operator, F-String
 - [X] Day 3: Control Flow
+- [X] Day 4: List, Random module
 
 ## 🔗 Links
 
