@@ -25,6 +25,7 @@ Over the next 100 days, I will be committing to:
 | 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value   |
 | 4   | 2024-10-17 | Data Structure List & Module    | List(append, extend & more), & Random Module |
 | 5   | 2024-10-18 | For Loop                        | Learn for loop in list & range()             |
+| 6   | 2024-10-18 | Function & While Loop           | How to make own function & while loop syntax |
 
 ## 📈 Progress Tracker
 
@@ -33,6 +34,7 @@ Over the next 100 days, I will be committing to:
 - [X] Day 3: Control Flow
 - [X] Day 4: List, Random module
 - [X] Day 5: For loop
+- [X] Day 6: Function & While loop
 
 ## 🔗 Links
 
