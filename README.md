@@ -18,25 +18,27 @@ Over the next 100 days, I will be committing to:
 
 ## 📝 Daily Log
 
-| Day | Date       | Topic / Project                 | Description                                  |
-|-----|------------|---------------------------------|----------------------------------------------|
-| 1   | 2024-10-15 | Basic Python Syntax             | Introduction to Python, variables, etc.      |
-| 2   | 2024-10-15 | Data Type, Math Opr, & F-String | Learn Python Data Type and more.             |
-| 3   | 2024-10-16 | Control Flow                    | Control flow, Conditional opr, falsy value   |
-| 4   | 2024-10-17 | Data Structure List & Module    | List(append, extend & more), & Random Module |
-| 5   | 2024-10-18 | For Loop                        | Learn for loop in list & range()             |
-| 6   | 2024-10-19 | Function & While Loop           | How to make own function & while loop syntax |
-| 7   | 2024-10-20 | Small project                   | Make Hangman game                            |
+| Day | Date       | Topic / Project                           | Description                                  |
+| --- | ---------- | ----------------------------------------- | -------------------------------------------- |
+| 1   | 2024-10-15 | Basic Python Syntax                       | Introduction to Python, variables, etc.      |
+| 2   | 2024-10-15 | Data Type, Math Opr, & F-String           | Learn Python Data Type and more.             |
+| 3   | 2024-10-16 | Control Flow                              | Control flow, Conditional opr, falsy value   |
+| 4   | 2024-10-17 | Data Structure List & Module              | List(append, extend & more), & Random Module |
+| 5   | 2024-10-18 | For Loop                                  | Learn for loop in list & range()             |
+| 6   | 2024-10-19 | Function & While Loop                     | How to make own function & while loop syntax |
+| 7   | 2024-10-20 | Small project                             | Make Hangman game                            |
+| 8   | 2024-10-20 | Func. parameter & argument, Small project | Diff. Parameter & Argument, Caesar chiper    |
 
 ## 📈 Progress Tracker
 
 - [x] Day 1: Basic Syntax, Printing, Variable
 - [x] Day 2: Data Type, Math Operator, F-String
-- [X] Day 3: Control Flow
-- [X] Day 4: List, Random module
-- [X] Day 5: For loop
-- [X] Day 6: Function & While loop
-- [X] Day 7: Small project Hangman game
+- [x] Day 3: Control Flow
+- [x] Day 4: List, Random module
+- [x] Day 5: For loop
+- [x] Day 6: Function & While loop
+- [x] Day 7: Small project Hangman game
+- [x] Day 8: Func. Parameter & Argument, Caesar Chiper
 
 ## 🔗 Links
 
@@ -55,4 +57,3 @@ Over the next 100 days, I will be committing to:
 ---
 
 Feel free to check my daily progress and explore the code snippets. Feedback and suggestions are always welcome!
-
