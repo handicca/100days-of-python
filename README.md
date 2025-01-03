@@ -38,10 +38,11 @@ This challenge is inspired by the idea of consistent practice over time to maste
 
 ## 📈 Progress
 
-| Day | Topic/Challenge                   | Status  |
-| --- | --------------------------------- | ------- |
-| 1   | Python Basics                     | ✅ Done |
-| 2   | Data Types & Aritmethic operators | ✅ Done |
+| Day | Topic/Challenge                              | Status  |
+| --- | -------------------------------------------- | ------- |
+| 1   | Python Basics                                | ✅ Done |
+| 2   | Data Types & Aritmethic operators            | ✅ Done |
+| 2   | Control flow if else & Conditional operators | ✅ Done |
 
 ---
 
