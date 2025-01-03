@@ -38,9 +38,10 @@ This challenge is inspired by the idea of consistent practice over time to maste
 
 ## 📈 Progress
 
-| Day | Topic/Challenge                | Status   |
-|-----|--------------------------------|----------|
-| 1   | Python Basics                 | ✅ Done   |In Progress |
+| Day | Topic/Challenge                   | Status  |
+| --- | --------------------------------- | ------- |
+| 1   | Python Basics                     | ✅ Done |
+| 2   | Data Types & Aritmethic operators | ✅ Done |
 
 ---
 
