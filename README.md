@@ -42,8 +42,9 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | --- | -------------------------------------------- | ------- |
 | 1   | Python Basics                                | ✅ Done |
 | 2   | Data Types & Aritmethic operators            | ✅ Done |
-| 2   | Control flow if else & Conditional operators | ✅ Done |
-| 2   | Python Module & List                         | ✅ Done |
+| 3   | Control flow if else & Conditional operators | ✅ Done |
+| 4   | Python Module & List                         | ✅ Done |
+| 5   | For Loop with List & range()                 | ✅ Done |
 
 ---
 
