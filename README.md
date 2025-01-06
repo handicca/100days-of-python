@@ -45,6 +45,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 3   | Control flow if else & Conditional operators | ✅ Done |
 | 4   | Python Module & List                         | ✅ Done |
 | 5   | For Loop with List & range()                 | ✅ Done |
+| 5   | Create Function & While loop                 | ✅ Done |
 
 ---
 
