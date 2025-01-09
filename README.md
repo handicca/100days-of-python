@@ -48,6 +48,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 6   | Create Function & While loop                       | ✅ Done |
 | 7   | Build Hangman Game                                 | ✅ Done |
 | 8   | Func. Parameter & Argument, Casesar Chiper Project | ✅ Done |
+| 9   | Dictionaries                                       | 🔄 In Progress |
 
 ---
 
