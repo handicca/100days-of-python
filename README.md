@@ -38,17 +38,18 @@ This challenge is inspired by the idea of consistent practice over time to maste
 
 ## 📈 Progress
 
-| Day | Topic/Challenge                                    | Status         |
-| --- | -------------------------------------------------- | -------------- |
-| 1   | Python Basics                                      | ✅ Done        |
-| 2   | Data Types & Aritmethic operators                  | ✅ Done        |
-| 3   | Control flow if else & Conditional operators       | ✅ Done        |
-| 4   | Python Module & List                               | ✅ Done        |
-| 5   | For Loop with List & range()                       | ✅ Done        |
-| 6   | Create Function & While loop                       | ✅ Done        |
-| 7   | Build Hangman Game                                 | ✅ Done        |
-| 8   | Func. Parameter & Argument, Casesar Chiper Project | ✅ Done        |
-| 9   | Dictionaries & Blind Auction project               | ✅ Done        |
+| Day | Topic/Challenge                                    | Status  |
+| --- | -------------------------------------------------- | ------- |
+| 1   | Python Basics                                      | ✅ Done |
+| 2   | Data Types & Aritmethic operators                  | ✅ Done |
+| 3   | Control flow if else & Conditional operators       | ✅ Done |
+| 4   | Python Module & List                               | ✅ Done |
+| 5   | For Loop with List & range()                       | ✅ Done |
+| 6   | Create Function & While loop                       | ✅ Done |
+| 7   | Build Hangman Game                                 | ✅ Done |
+| 8   | Func. Parameter & Argument, Casesar Chiper Project | ✅ Done |
+| 9   | Dictionaries & Blind Auction project               | ✅ Done |
+| 10  | Func. Return, Calculator & Leap year               | ✅ Done |
 
 ---
 
