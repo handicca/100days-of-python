@@ -50,6 +50,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 8   | Func. Parameter & Argument, Casesar Chiper Project | ✅ Done |
 | 9   | Dictionaries & Blind Auction project               | ✅ Done |
 | 10  | Func. Return, Calculator & Leap year               | ✅ Done |
+| 11  | Blackjack game                                     | ✅ Done |
 
 ---
 
