@@ -53,6 +53,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 11  | Blackjack game                                     | ✅ Done |
 | 12  | Python Scope & Guess Number game                   | ✅ Done |
 | 13  | Learn how to solve problem & Debugging             | ✅ Done |
+| 14  | HigherLower game                                   | ✅ Done |
 
 ---
 
