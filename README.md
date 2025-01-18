@@ -52,6 +52,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 10  | Func. Return, Calculator & Leap year               | ✅ Done |
 | 11  | Blackjack game                                     | ✅ Done |
 | 12  | Python Scope & Guess Number game                   | ✅ Done |
+| 13  | Learn how to solve problem & Debugging             | ✅ Done |
 
 ---
 
