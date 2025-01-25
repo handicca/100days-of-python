@@ -57,6 +57,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 15  | Coffee Machine project                             | ✅ Done |
 | 16  | Coffee Machine project with OOP                    | ✅ Done |
 | 17  | Quiz Game project                                  | ✅ Done |
+| 18  | Turtle module & Tkinter                            | ✅ Done |
 
 ---
 
