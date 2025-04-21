@@ -61,6 +61,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 19  | Etch a sketch & Turtle Races                       | ✅ Done |
 | 20  | Snake Game pt.1                                    | ✅ Done |
 | 21  | Snake Game pt.2                                    | ✅ Done |
+| 22  | Pong Game                                          | ✅ Done |
 
 ---
 
