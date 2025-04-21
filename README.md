@@ -58,6 +58,9 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 16  | Coffee Machine project with OOP                    | ✅ Done |
 | 17  | Quiz Game project                                  | ✅ Done |
 | 18  | Turtle module & Tkinter                            | ✅ Done |
+| 19  | Etch a sketch & Turtle Races                       | ✅ Done |
+| 20  | Snake Game pt.1                                    | ✅ Done |
+| 21  | Snake Game pt.2                                    | ✅ Done |
 
 ---
 
