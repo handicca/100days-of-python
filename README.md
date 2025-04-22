@@ -62,6 +62,7 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 20  | Snake Game pt.1                                    | ✅ Done |
 | 21  | Snake Game pt.2                                    | ✅ Done |
 | 22  | Pong Game                                          | ✅ Done |
+| 23  | Turtle Crossing Game                               | ✅ Done |
 
 ---
 
