@@ -63,6 +63,11 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 21  | Snake Game pt.2                                    | ✅ Done |
 | 22  | Pong Game                                          | ✅ Done |
 | 23  | Turtle Crossing Game                               | ✅ Done |
+| 24  | Read & Write file                                  | ✅ Done |
+| 25  | Pandas module                                      | ✅ Done |
+| 26  | List & Dict. Comprehension                         | ✅ Done |
+| 27  | Tkinter & Miles to KM project                      | ✅ Done |
+| 28  | Pomodoro Tkinter                                   | ✅ Done |
 
 ---
 
