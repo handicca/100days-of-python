@@ -68,6 +68,10 @@ This challenge is inspired by the idea of consistent practice over time to maste
 | 26  | List & Dict. Comprehension                         | ✅ Done |
 | 27  | Tkinter & Miles to KM project                      | ✅ Done |
 | 28  | Pomodoro Tkinter                                   | ✅ Done |
+| 29  | Password Manager                                   | ✅ Done |
+| 30  | try...execpt...else...finnaly & Json Data          | ✅ Done |
+| 31  | Flash cards app                                    | ✅ Done |
+| 32  | Send email (smtplib) & Manage Dates (datetime)     | ✅ Done |
 
 ---
 
